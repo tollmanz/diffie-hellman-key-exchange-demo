@@ -9,7 +9,7 @@
 |  10 |  9  |     |  9   |  12  |  16   |  6   |  8    |
 
 1. Circle a number listed below. This number is "b".
-  
+
   ```
   b =   6   7   8   9   10
   ```
