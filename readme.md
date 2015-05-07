@@ -12,7 +12,7 @@ To begin the demo, ask for two volunteers to participate in the activity. Assign
 
 Give Alice the "Alice" handout, a clipboard, and a marker. Similarly, give Bob the "Bob" handout, a clipboard, and a marker.
 
-Annouce the value of *g* and *p* used in the [key-exchange-math.md]() document. Emphasize that Alice, Bob, the presenter, and all of the audience are aware of these numbers. These are public values that are purposefully available to the two parties as well as "any persons in the middle". It is important to note to the audience that they are all persons in the middle of the exchange.
+Annouce the value of *g* and *p* used in the [key-exchange-math.md](https://github.com/tollmanz/diffie-hellman-key-exchange-demo/blob/master/raw/key-exchange-math.md) document. Emphasize that Alice, Bob, the presenter, and all of the audience are aware of these numbers. These are public values that are purposefully available to the two parties as well as "any persons in the middle". It is important to note to the audience that they are all persons in the middle of the exchange.
 
 Instruct Alice and Bob to complete step 1 and 2 in their respective handouts. Inform the audience that Alice and Bob are selecting a secret number that they will not reveal.
 
