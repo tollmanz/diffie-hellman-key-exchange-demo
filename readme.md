@@ -36,7 +36,7 @@ The demo is intended to emphasize the *concepts behind key exchange* and not rea
 
 This demo can be used to explain important TLS concepts that can otherwise be difficult to describe. For instance, after completing the demo, you can show that changing *a*, *b*, *p*, or *g* will result in the generation of different encryption keys. This information can be the basis for describing the concept of perfect forward secrecy.
 
-This repository also includes cheat sheets for the math used in the demo. These cheats sheets are helpful for discussing the concept of "trapdoor functions" that power the key exchange. The included Soulver document is helpful as it is a calculator tool that supports variables allowing the presenter to easily show the effects of changing any of the variables in the equation. This effect can be achieved with other similar pieces of software. Showing this document is considered optional. The demo stands on its own and discussion of the math can be helpful for solidifying concepts depending on the audience and the amount of time given for the presentation.
+This repository also includes cheat sheets for the math used in the demo. These cheats sheets are helpful for discussing the concept of "one-way functions" that power the key exchange. The included Soulver document is helpful as it is a calculator tool that supports variables allowing the presenter to easily show the effects of changing any of the variables in the equation. This effect can be achieved with other similar pieces of software. Showing this document is considered optional. The demo stands on its own and discussion of the math can be helpful for solidifying concepts depending on the audience and the amount of time given for the presentation.
 
 ## Materials
 
